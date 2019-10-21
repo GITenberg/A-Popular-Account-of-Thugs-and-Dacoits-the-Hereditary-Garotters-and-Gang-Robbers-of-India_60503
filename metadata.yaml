@@ -1,0 +1,25 @@
+_repo: A-Popular-Account-of-Thugs-and-Dacoits-the-Hereditary-Garotters-and-Gang-Robbers-of-India_60503
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hutton, James
+    alias: Hutton, Jacobus
+    birthdate: 1726
+    deathdate: 1797
+    gutenberg_agent_id: '4675'
+    url: http://www.gutenberg.org/2009/agents/4675
+    wikipedia: http://en.wikipedia.org/wiki/James_Hutton
+description: ''
+gutenberg_issued: '2019-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Popular Account of Thugs and Dacoits, the Hereditary Garotters and Gang-Robbers
+  of India
+url: http://www.gutenberg.org/ebooks/60503
